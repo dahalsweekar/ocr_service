@@ -4,10 +4,11 @@ and necessary steps are implemented.
 
 ## Steps:
   1. Read the input image
-  2. Apply Homographic transformation
-  3. Image recognition
+  2. Homographic transformation
+  3. Image Pre-processing
   4. Text extraction
-  5. Key value pairing
+  5. Spell correction
+  6. Key value pairing
 
 ## Following are the results of homographic transformation:
 
